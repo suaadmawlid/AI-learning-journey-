@@ -1,4 +1,4 @@
-# Machine Learning Foundations — Day 2
+# Machine Learning Foundations 
 
 ## Overview
 ![Machine Learning Foundations](machine-learning-foundations.png)
